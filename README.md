@@ -33,3 +33,8 @@ a. Please complete the form below to register your interest in becoming a volunt
  
 ![Form i need to design](https://github.com/vaibhavvatsbhartiya/Morten-Bay/assets/76244950/a2f8d79a-20cf-43c8-9406-a0b3035bfc95)
 
+## Solution
+
+1. [Laptop view](https://github.com/vaibhavvatsbhartiya/Morten-Bay/blob/main/laptopView.jpeg)
+2. [Tablet view](https://github.com/vaibhavvatsbhartiya/Morten-Bay/blob/main/tabletView.jpeg)
+3. [Mobile view](https://github.com/vaibhavvatsbhartiya/Morten-Bay/blob/main/mobileView.jpeg)
