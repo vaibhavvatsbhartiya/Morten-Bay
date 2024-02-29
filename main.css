@@ -120,6 +120,14 @@ Add any CSS related this task below this comment
 
 */
 
+header{
+    display:none;
+}
+
+footer{
+    display:none;
+}
+
 .form{
     display: flex;
     flex-direction: column;
